@@ -33,7 +33,7 @@
 
  
 
-## How to Contribute 
+# How to Contribute 
 
  1. Fork this Repository
  
@@ -63,7 +63,7 @@ $ git clone "https://www.github.com/{Username}/HackerRank-Solutions"
 
  8. Generate a pull request (Make sure to add problem name in the title and url in the description)
 
-## Synchronize forked repository with upstream repository
+# Synchronize forked repository with upstream repository
 
  1. Add this repository as an upstream repository
  ```
@@ -88,7 +88,7 @@ $ git merge upstream/master
  $ git push -f origin master
  ```
 
-## License 
+# License 
 
 MIT
 
