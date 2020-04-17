@@ -1,4 +1,4 @@
-![Hackerank Logo](/images/HackerRankLogo.png)
+![Hackerank Logo](/Images/HackerRankLogo.png)
 
  **HackerRank** is an online platform where programmers from all over the world come to solve problems on different domains like algorithms , Artificial Intelligence and also to practice different programming paradigms.  
  In this Repository you can find and contribute to the solution of HackerRank 
