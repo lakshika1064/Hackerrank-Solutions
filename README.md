@@ -9,7 +9,7 @@
 
  
 
- - [ ] Python
+ - [x] Python
  - [ ] C++
  - [ ] C
  - [ ] Algorithms
