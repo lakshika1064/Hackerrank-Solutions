@@ -46,7 +46,7 @@ $ git clone "https://www.github.com/{Username}/HackerRank-Solutions"
  
  4. Paste the Code into a new file and name it in the following format : Problem_Name.[extension of the language] (Make sure name of your file matches with the name mentioned in the url)
 
- 5. Place your source code file in the respective folder(if there is no folder of your domain then go ahead and create it)
+ 5. Place your source code file in the respective folder(if there is no folder of your domain then go ahead and create it).If you have added a folder update the readme.md file
 
  6. add and commit the changes in your Repository
  ```
