@@ -19,7 +19,7 @@
  - [ ] Mathematics
  - [ ] Java
  - [ ] Ruby
- - [ ] Linux Shell
+ - [x] Linux Shell
  - [ ] Functional Programming
  - [ ] Artificial Intelligence
  - [ ] SQL
