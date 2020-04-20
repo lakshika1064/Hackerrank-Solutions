@@ -12,7 +12,7 @@
  
 
  - [x] Python
- - [ ] C++
+ - [x] C++
  - [ ] C
  - [ ] Algorithms
  - [ ] Data Structures
@@ -29,7 +29,7 @@
 #### Additional 
 
  - [ ] Interview Preparation Kit
- - [ ] Learn to Code in 30 Days
+ - [x] Learn to Code in 30 Days
  - [ ] 10 Days of Statistics
  - [ ] 10 Days of Javascript 
 
